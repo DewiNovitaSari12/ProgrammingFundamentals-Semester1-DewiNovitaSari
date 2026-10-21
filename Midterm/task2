@@ -1,0 +1,16 @@
+The airport operations team wants to develop a passenger authorization program that determines whether a passenger is eligible to board a flight, must resolve outstanding requirements, or must be denied boarding.
+
+The program accepts several inputs, including flight type, check-in status, travel document status, visa requirements, baggage status, security screening result, boarding time, and special assistance requirements.
+
+The program must apply the following rules:
+
+1. Validate the flight type and passenger check-in status. Passengers who have not completed check-in cannot proceed to boarding.
+2. Domestic passengers must present valid identification, while international passengers must have valid travel documents and any required visa.
+3. Passengers with expired or missing travel documents must be denied boarding until their documentation is resolved.
+4. Passengers whose baggage exceeds the permitted allowance must settle the additional baggage fee before boarding. Baggage containing prohibited items must undergo further inspection.
+5. All passengers must pass security screening. Passengers who fail screening cannot proceed to the boarding gate.
+6. Passengers must arrive at the boarding gate before the airline's boarding deadline. Passengers arriving after the deadline must be denied boarding.
+7. Passengers requiring special assistance may board only when the necessary arrangements have been confirmed.
+8. For invalid flight types or other invalid input values, the program must display an appropriate error message.
+
+**Task:** Develop a Java program that implements the airport passenger authorization system using nested `if-else` statements and a `switch-case` statement. Each `case` must include a `break` statement and a `default` branch. The program must process only one passenger per execution.

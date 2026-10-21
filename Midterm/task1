@@ -1,0 +1,16 @@
+The software development team of an e-commerce company wants to develop an order management program that determines whether a customer's request should be processed, rejected, or require further review.
+
+The program accepts several inputs, including request type, order status, payment status, product category, product condition, purchase date, refund evidence, and customer membership status.
+
+The program must apply the following rules:
+
+1. Validate the request type. The system must support new orders, order cancellations, and refund requests.
+2. For new orders, verify that the payment has been confirmed before the order can be processed. Unpaid orders must remain pending.
+3. For cancellation requests, orders that have not been shipped may be cancelled. Shipped or delivered orders cannot be cancelled through the normal cancellation process.
+4. Refund requests can only be processed for orders that have been paid for and delivered.
+5. Defective products or products damaged during delivery may qualify for a refund if valid supporting evidence is provided.
+6. Change-of-mind refunds are only available to Premium members when the product is unopened and the request is submitted within seven days of delivery.
+7. Certain product categories, such as digital products, may be excluded from change-of-mind refunds.
+8. For invalid request types or order statuses, the program must display an appropriate error message.
+
+**Task:** Develop a Java program that implements the e-commerce order management system using nested `if-else` statements and a `switch-case` statement. Each `case` must include a `break` statement and a `default` branch. The program must process only one customer request per execution.

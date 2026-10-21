@@ -1,4 +1,5 @@
-    import java.util.Scanner;
+package week6.assignment;
+import java.util.Scanner;
 
 public class Task2AssistantSelection08 {
 

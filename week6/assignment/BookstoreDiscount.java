@@ -1,3 +1,5 @@
+package week6.assignment;
+
 import java.util.Scanner;
 
 public class BookstoreDiscount {

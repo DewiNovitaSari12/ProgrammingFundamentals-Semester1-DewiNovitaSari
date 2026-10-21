@@ -13,15 +13,5 @@ public class ParkingSystemFee {
         double time;
 
 
-        System.out.print("What Vehicle you parking:");
-        typeVehicle= next.String;
-        System.out.print("");
-        System.out.println();
-        if(typeVehicle true){
-
-
-        }
-
-
     }
 }
