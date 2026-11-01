@@ -1,9 +1,8 @@
-package week7.experiment1;
 import java.util.Scanner;
-public class AcademicInformationSystem {
+public class SiakadFor08 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
+        
         //Declare varible
         double score, highest =0,lowest = 100;
         System.out.print("Enter your score: ");
