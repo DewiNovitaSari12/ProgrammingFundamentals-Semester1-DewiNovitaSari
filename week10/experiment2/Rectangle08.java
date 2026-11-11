@@ -1,3 +1,4 @@
+package week10.experiment2;
 import java.util.Scanner;
 public class Rectangle08 {
     public static void main(String[] args) {

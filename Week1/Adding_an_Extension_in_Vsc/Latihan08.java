@@ -1,4 +1,5 @@
-package Adding_an_Extension_in_Vsc;
+package Week1.Adding_an_Extension_in_Vsc;
+
 
 public class Latihan08 {
 

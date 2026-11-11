@@ -1,4 +1,4 @@
-package useofvariables;
+package week2.useofvariables;
 
 public class ExampleVariabel264107020002 {
     public static void main(String[]args){

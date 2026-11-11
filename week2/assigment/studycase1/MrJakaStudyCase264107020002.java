@@ -1,4 +1,4 @@
-package assigment.studycase1;
+package week2.assigment.studycase1;
 import java.util.Scanner;
 
 public class MrJakaStudyCase264107020002 {

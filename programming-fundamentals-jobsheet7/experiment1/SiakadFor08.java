@@ -20,6 +20,6 @@ public class SiakadFor08 {
         }
         System.out.println("Highest score: " + highest);
         System.out.println("Lowest score: " + lowest);
-        
+        sc.close();
     }   
 }

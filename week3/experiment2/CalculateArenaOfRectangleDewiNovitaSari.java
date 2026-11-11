@@ -1,4 +1,4 @@
-package experiment2;
+package week3.experiment2;
 import java.util.Scanner;
 
 public class CalculateArenaOfRectangleDewiNovitaSari {

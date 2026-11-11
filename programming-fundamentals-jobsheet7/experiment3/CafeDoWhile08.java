@@ -1,4 +1,4 @@
-package week7.experiment3;
+
 import java.util.Scanner;
 public class CafeDoWhile08 {
     public static void main(String[]args){
@@ -29,5 +29,7 @@ public class CafeDoWhile08 {
             scanner.nextLine();
         }while (true);
         System.out.println("Thank you for visiting our cafe! All transactions are completed.");
+        
+        scanner.close();
     }
 }

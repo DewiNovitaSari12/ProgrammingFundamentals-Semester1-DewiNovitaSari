@@ -1,7 +1,7 @@
 //Name : Dewi Novita Sari
 //Nim : 264107020002
 
-package quiz;
+package week4;
 
 import java.util.Scanner;
 

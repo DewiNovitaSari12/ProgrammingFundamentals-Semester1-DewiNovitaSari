@@ -1,4 +1,4 @@
-package useofoperator;
+package week2.useofoperator;
 
 public class ExampleOperator264107020002 {
     public static void main(String[] args) {

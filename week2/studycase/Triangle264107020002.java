@@ -1,3 +1,4 @@
+package week2.studycase;
 import java.util.Scanner;
 
 public class Triangle264107020002 {

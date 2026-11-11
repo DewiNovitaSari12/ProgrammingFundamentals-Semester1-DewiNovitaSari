@@ -1,4 +1,4 @@
-package Assigment;
+package Week1.Assigment;
 
 public class RobotArm08 {
 

@@ -1,4 +1,4 @@
-package BasicJavaStructure;
+package Week1.BasicJavaStructure;
 
 public class MyFirstJava08 {
     public static void main(String[] args){

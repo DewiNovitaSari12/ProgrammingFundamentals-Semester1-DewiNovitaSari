@@ -1,3 +1,4 @@
+package week10.Assignment;
 import java.util.Scanner;
 
 public class Task308 {

@@ -1,3 +1,4 @@
+package week10.experiment1;
 import java.util.Scanner;
 public class Star08 {
     public static void main(String[] args) {

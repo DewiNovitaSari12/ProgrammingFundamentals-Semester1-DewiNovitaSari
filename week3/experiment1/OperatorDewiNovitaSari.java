@@ -1,4 +1,4 @@
-package experiment1;
+package week3.experiment1;
 
 public class OperatorDewiNovitaSari {
     public static void main(String[] args) {

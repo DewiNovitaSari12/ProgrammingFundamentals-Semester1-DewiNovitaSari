@@ -52,7 +52,9 @@ public class CinemaWhile08 {
         System.out.println("=================================");
         System.out.println("Total tickets sold today: " + totalTickets);
         System.out.println("Total ticket revenue today: Rp " + totalRevenue);
-
+        
+        sc.close();
     }
+    
 }
 

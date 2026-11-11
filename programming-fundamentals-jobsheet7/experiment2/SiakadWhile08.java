@@ -36,7 +36,7 @@ public class SiakadWhile08 {
             System.out.println("The grade of student " + (i + 1) + " is E"); 
         } 
         i++; 
- 
+        sc.close();
         }
     }
     

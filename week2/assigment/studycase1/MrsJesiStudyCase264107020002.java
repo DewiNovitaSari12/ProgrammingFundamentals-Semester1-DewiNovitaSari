@@ -1,4 +1,4 @@
-package assigment.studycase1;
+package week2.assigment.studycase1;
 
 public class MrsJesiStudyCase264107020002 {
     public static void main(String[] args) {

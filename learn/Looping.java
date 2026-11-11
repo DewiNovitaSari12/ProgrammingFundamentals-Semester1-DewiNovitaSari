@@ -12,5 +12,6 @@ public class Looping {
            
             System.out.println("The sugar in your coffee is not enough, please add more sugar.");
         }
+        input.close();
     }
 }

@@ -1,4 +1,4 @@
-package experiment4;
+package week3.experiment4;
 import java.util.Scanner;
 
 public class TotalSalary {

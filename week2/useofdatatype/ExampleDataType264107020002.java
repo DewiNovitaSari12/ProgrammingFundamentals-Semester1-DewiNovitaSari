@@ -1,3 +1,4 @@
+package week2.useofdatatype;
 public class ExampleDataType264107020002{
     public static void main(String[]args){
         char bloodGroup ='A';

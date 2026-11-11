@@ -1,4 +1,4 @@
-package studycase;
+package week2.studycase;
 
 import java.util.Scanner;
 

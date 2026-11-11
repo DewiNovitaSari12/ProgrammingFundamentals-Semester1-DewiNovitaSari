@@ -1,3 +1,4 @@
+package week10.Experiment3;
 import java.util.Scanner;
 public class Triangle08 {
     public static void main (String[] args) {

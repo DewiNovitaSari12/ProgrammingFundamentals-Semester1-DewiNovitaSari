@@ -1,3 +1,4 @@
+package week10.experiment4;
 import java.util.Scanner;
 
 public class GroupScore08 {

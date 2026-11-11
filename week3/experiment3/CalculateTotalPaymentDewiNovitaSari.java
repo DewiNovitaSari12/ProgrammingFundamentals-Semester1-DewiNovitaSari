@@ -1,5 +1,4 @@
-package experiment3;
-
+package week3.experiment3;
 import java.util.Scanner;
 
 public class CalculateTotalPaymentDewiNovitaSari {

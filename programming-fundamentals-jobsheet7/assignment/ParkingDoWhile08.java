@@ -33,6 +33,8 @@ public class ParkingDoWhile08 {
         System.out.println("==========================================");
         System.out.println("Total parking fee: Rp. " + total);
         System.out.println("=========================================="); 
+
+        sc.close();
     }
 }
 
